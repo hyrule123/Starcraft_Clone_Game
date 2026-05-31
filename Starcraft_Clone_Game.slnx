@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="Starcraft_Clone_Game/Starcraft_Clone_Game.vcxproj" Id="9286884d-b69c-4b49-abe5-9aa143c2be4f" />
+  <Project Path="proj/Starcraft_Clone_Game/Starcraft_Clone_Game.vcxproj" Id="9286884d-b69c-4b49-abe5-9aa143c2be4f" />
 </Solution>
